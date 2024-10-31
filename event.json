@@ -1,0 +1,6 @@
+{
+  "httpMethod": "GET",
+  "resource": "/hello",
+  "body": "",
+  "isBase64Encoded": false
+}
